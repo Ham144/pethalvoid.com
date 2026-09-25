@@ -71,8 +71,8 @@ export default function Hero() {
                 <span>Idempotent pipelines</span>
               </div>
               <div className="flex flex-col border-l border-[#222222] pl-3">
-                <span className="text-white font-bold text-sm">IELTS 7.0 EN</span>
-                <span>Fluent async & sync</span>
+                <span className="text-white font-bold text-sm">GLOBAL REACH</span>
+                <span>Async & sync ready</span>
               </div>
             </div>
           </div>

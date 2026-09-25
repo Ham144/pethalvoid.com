@@ -210,16 +210,16 @@ export default function LiveProof() {
 
           <div className="brutalist-card p-6 bg-[#121212] border-2 border-[#262626]">
             <div className="font-mono-tech text-xs text-[#22c55e] font-bold uppercase mb-2">
-              // GLOBAL COMMUNICATION
+              // ENGINEERING STANDARDS
             </div>
             <div className="text-xl font-bold text-white uppercase mb-1">
-              IELTS Band 7.0 Certified
+              Production-Grade SLA
             </div>
             <div className="font-mono-tech text-xs text-[#777777] mb-4">
-              Native-Level English Proficiency
+              Fault-Tolerant Pipelines
             </div>
             <p className="text-sm text-[#aaaaaa] leading-relaxed">
-              Crystal clear async Loom walkthroughs, precise Slack architecture reviews, and zero language friction during strategy calls.
+              Every workflow is engineered with automated health checks, Dead-Letter fallback queues, and complete architecture documentation.
             </p>
           </div>
 

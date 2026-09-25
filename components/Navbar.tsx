@@ -17,7 +17,7 @@ export default function Navbar() {
         </div>
         <div className="flex items-center gap-3">
           <span className="text-[#f5e642]">GLOBAL CLIENT ENGAGEMENT: OPEN</span>
-          <span className="hidden sm:inline text-[#666666]">IELTS BAND 7 EN</span>
+          <span className="hidden sm:inline text-[#666666]">EST · GMT · AEST SYNC</span>
         </div>
       </div>
 

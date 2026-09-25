@@ -84,7 +84,7 @@ export default function Footer() {
           <div className="flex items-center gap-6">
             <span>UPTIME: 99.98%</span>
             <span>ENCRYPTED VAULTS</span>
-            <span>IELTS 7.0 EN</span>
+            <span>GLOBAL SLA</span>
           </div>
         </div>
       </div>

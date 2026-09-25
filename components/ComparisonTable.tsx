@@ -40,10 +40,10 @@ export default function ComparisonTable() {
       winner: true,
     },
     {
-      feature: "Communication & Language",
-      freelancer: "Hit-or-miss English, slow async communication.",
+      feature: "Communication & Velocity",
+      freelancer: "Unreliable updates and slow async turnaround.",
       bigAgency: "3 layers of account managers before reaching an engineer.",
-      pethalvoid: "IELTS Band 7.0 certified. Direct access to the lead systems engineer.",
+      pethalvoid: "Direct collaboration with lead systems architect. Clear async video walkthroughs.",
       winner: true,
     },
   ];
