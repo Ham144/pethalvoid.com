@@ -52,13 +52,11 @@ export default function Hero() {
                 BOOK FREE STRATEGY AUDIT ↗
               </a>
               <a
-                href="https://n8n.pethalvoid.com/workflow/MqdQMEdI5CJkSMBZ"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="#architecture"
                 className="brutalist-btn-stark px-6 py-4 text-center font-mono-tech text-sm uppercase tracking-wider font-bold flex items-center justify-center gap-2"
               >
                 <span className="w-2 h-2 bg-[#22c55e]"></span>
-                SEE LIVE n8n DEMO ↗
+                EXPLORE ARCHITECTURE ↓
               </a>
             </div>
 

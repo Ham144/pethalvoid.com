@@ -50,12 +50,12 @@ export default function Footer() {
               yafizham@pethalvoid.com
             </a>
             <a
-              href="https://n8n.pethalvoid.com/workflow/MqdQMEdI5CJkSMBZ"
+              href="https://wa.me/6283854026650"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[#f5e642] transition-colors"
             >
-              n8n.pethalvoid.com ↗
+              WhatsApp: +62 838-5402-6650 ↗
             </a>
             <a
               href="https://github.com/Ham144"

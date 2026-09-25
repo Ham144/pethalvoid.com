@@ -29,9 +29,9 @@ export default function LiveProof() {
             <div className="flex flex-col">
               <div className="flex items-center gap-3 mb-2 font-mono-tech text-xs">
                 <span className="px-2.5 py-0.5 bg-[#22c55e]/20 text-[#22c55e] border border-[#22c55e]/40 font-bold">
-                  ● LIVE PUBLIC WORKSPACE
+                  ● PRODUCTION BLUEPRINT
                 </span>
-                <span className="text-[#888888]">RUNTIME: n8n.pethalvoid.com</span>
+                <span className="text-[#888888]">RUNTIME: n8n + DOCKER CLUSTER</span>
               </div>
               <h3 className="text-2xl sm:text-3xl font-bold uppercase text-white">
                 Enterprise Multi-Channel Router & Approval Matrix
@@ -43,12 +43,10 @@ export default function LiveProof() {
 
             <div className="flex items-center gap-4">
               <a
-                href="https://n8n.pethalvoid.com/workflow/MqdQMEdI5CJkSMBZ"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="#booking"
                 className="brutalist-btn-acid px-6 py-3.5 font-mono-tech text-xs uppercase font-bold tracking-wider inline-flex items-center gap-2 whitespace-nowrap"
               >
-                <span>OPEN LIVE WORKFLOW CANVAS</span>
+                <span>REQUEST TAILORED ARCHITECTURE CALL</span>
                 <span className="text-sm">↗</span>
               </a>
             </div>

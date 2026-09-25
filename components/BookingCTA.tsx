@@ -97,15 +97,10 @@ export default function BookingCTA() {
                   </div>
 
                   <div className="p-3 bg-[#141414] border border-[#262626]">
-                    <div className="text-[#777777] text-[10px] uppercase mb-0.5">LIVE ARCHITECTURE DEMO</div>
-                    <a
-                      href="https://n8n.pethalvoid.com/workflow/MqdQMEdI5CJkSMBZ"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-white hover:text-[#f5e642] font-bold text-sm"
-                    >
-                      n8n.pethalvoid.com ↗
-                    </a>
+                    <div className="text-[#777777] text-[10px] uppercase mb-0.5">PRIVATE ARCHITECTURE DEMO</div>
+                    <div className="text-[#f5e642] font-bold text-sm">
+                      Walkthrough on 30-Min Call
+                    </div>
                   </div>
                 </div>
 
